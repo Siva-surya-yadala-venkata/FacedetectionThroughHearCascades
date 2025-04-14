@@ -1,7 +1,3 @@
-Here's a clean and professional `README.md` file for your GitHub repository that contains both `MultipleFaceDetection.py` and `SingleFaceDetection.py`. This README helps others understand what your project does, how to run it, and what dependencies are required.
-
----
-
 ## 📸 Face Detection and Recognition System
 
 This repository contains two Python scripts for performing **face detection, data collection, and recognition** using the **OpenCV** library with the **LBPH Face Recognizer**.
